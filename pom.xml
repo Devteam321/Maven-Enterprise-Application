@@ -8,8 +8,8 @@
   <name>Maven-Enterprise-Application</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
+    <module>MavenEnterpriseApp-ear</module>
   </modules>
   
   <properties>
